@@ -63,7 +63,7 @@ const message= winner ? `winner is ${winner}`: `Next Player is ${isXNext ? 'X' :
         {renderSquare(7)}
         {renderSquare(8)}
       </div>
-      <div className="app"><br></br><br></br>-Roshan Patil </div>
+      <div className="app"><br></br><br></br>-Roshan Patil  / </div>
     </div>
   );
 };
